@@ -37,3 +37,7 @@ npm run build
 ```sh
 npm run lint
 ```
+
+## Authors
+André Paulino
+Guilherme Tavares
